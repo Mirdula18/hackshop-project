@@ -137,7 +137,7 @@ def my_portfolio():
     st.write("###\t**Hello there! I'm Mirdula R.**")
     st.write("## Accomplishments/Strenghts:")
     st.write("**Programing**:\n  - Good with Python\n  - Knows C++\n")
-    st.write("**Extras**:\n  - Physics\n  - Mathematics\n  - Problem Solving\n")
+    st.write("**Extras**:\n  - Physics\n  - Mathematics\n  - Problem Solving\n  - Knows Different Languages\n")
     st.write("**Other Skills**:\n  - Singer\n  -Beginner Level Guitar Player\n  - Writer\n")
 
 def main():
