@@ -138,7 +138,7 @@ def my_portfolio():
     st.write("## Accomplishments/Strenghts:")
     st.write("**Programing**:\n  - Good with Python\n  - Knows C++\n")
     st.write("**Extras**:\n  - Physics\n  - Mathematics\n  - Problem Solving\n")
-    st.write("**Other Skills**:\n  - Artist (Pencil: Sketching & Hatching)\n  - Writer\n")
+    st.write("**Other Skills**:\n  - Singer\n  -Beginner Level Guitar Player\n  - Writer\n")
 
 def main():
     st.title("KiTE_hackshop'24")
